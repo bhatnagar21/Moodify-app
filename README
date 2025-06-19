@@ -39,3 +39,9 @@ Install the dependencies using:
 
 ```bash
 pip install -r requirements.txt
+
+
+direct clone and run 
+git clone https://github.com/yourusername/moodify-pro.git
+cd moodify-pro
+streamlit run moodify.py
