@@ -1,0 +1,41 @@
+# 🎧 Moodify Pro – Mood-Based Song Recommender
+
+**Moodify Pro** is a smart, minimal, and feel-good music recommendation app built with **Python**, **TextBlob**, and **Streamlit**. Just type how you're feeling, and it will detect your mood using Natural Language Processing and recommend Bollywood songs accordingly! ❤️🎶
+
+---
+
+## 🌟 Features
+
+- 🔍 Mood detection using sentiment analysis (TextBlob)
+- 🎵 Song recommendations tailored to your emotion
+- 🌘 Toggle between light & dark themes
+- 🚀 Streamlit-powered UI (super fast & easy to deploy)
+- 🎯 Real-time updates without reloading
+
+---
+
+## 📷 Demo Screenshot
+
+
+---
+
+## 🚀 Live Demo
+
+👉 [Click here to try it on Streamlit](https://your-streamlit-url.streamlit.app)
+
+---
+
+## 🧠 How It Works
+
+1. User enters how they feel in natural language.
+2. TextBlob analyzes the polarity of the sentence.
+3. Based on the mood (excited, sad, love, neutral, etc.), recommended songs are shown with clickable YouTube links.
+
+---
+
+## 📦 Requirements
+
+Install the dependencies using:
+
+```bash
+pip install -r requirements.txt
